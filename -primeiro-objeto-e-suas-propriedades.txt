@@ -1,0 +1,7 @@
+// Criar objeto restaurante
+let restaurante ={
+  nome : "Chef Joseph",
+  classificacao: 4,
+  abertoNasSegundas: true,
+};
+console.log(restaurante)
